@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Business Insights — Excel Dashboard
+#  Coffee Shop Business Insights — Excel Dashboard
 
 
 I made this project to practice data analysis using Excel.
@@ -67,4 +67,4 @@ Month filter and Day filter — select any time period and everything updates.
 6 charts covering hourly trends, weekday patterns, store comparison,
 top products, category split, and size distribution.
 
-> Built with Excel as part of my data analysis learning.
+ Built with Excel as part of my data analysis learning.
